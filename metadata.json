@@ -1,0 +1,5 @@
+{
+  "name": "Fleet ROI Calculator",
+  "description": "A high-fidelity, interactive ROI calculator for fleet management with real-time updates and animations.",
+  "requestFramePermissions": []
+}
